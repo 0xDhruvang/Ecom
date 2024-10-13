@@ -37,16 +37,16 @@ export default function Footer() {
             <p className="footer__contact">
               <BiMap className="footer__contact-icon" />
               <span className="footer__contact-info">
-                46 Lakeshore St. Knoxville,
+              Mumbai,
                 <br />
-                TN 37918
+                MH 400001
               </span>
             </p>
             <p className="footer__contact">
               <BiPhone className="footer__contact-icon" />
               <span className="footer__contact-info">
                 <a className="footer__contact-link" href="tel:13124786691">
-                  +1 (312) 478 6691
+                +91 8652119224
                 </a>
               </span>
             </p>
@@ -59,7 +59,7 @@ export default function Footer() {
                 >
                   support@
                   <wbr />
-                  jones.com
+                  elegantshoes.com
                 </a>
               </span>
             </p>

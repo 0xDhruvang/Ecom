@@ -39,7 +39,7 @@ function PaymentSuccess({ userId, orderId }: PaymentSuccessProps) {
         <section>
           <p>
             We appreciate your business! If you have any questions, please email{" "}
-            <a href="mailto:orders@jones.com">orders@jones.com</a>.
+            <a href="mailto:orders@jones.com">orders@elegantshoes.com</a>.
           </p>
         </section>
       </div>

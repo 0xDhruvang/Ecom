@@ -13,7 +13,7 @@ export default function Logo() {
           alt=""
           src={logoImg}
         />
-        <span className="logo__subtext">Jordan Ones</span>
+        <span className="logo__subtext">Elegant Ones</span>
       </a>
     </Link>
   );
