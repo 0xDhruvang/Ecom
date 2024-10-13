@@ -18,10 +18,10 @@ export default function Logo() {
             fontSize: "20px",
           }}
         >
-          J
+          Elegant
         </div>
         <span className="logo__subtext" style={{ marginLeft: "10px" }}>
-          Elegant Ones
+          Shoes
         </span>
       </a>
     </Link>
